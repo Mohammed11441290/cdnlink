@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icomoon';
   src:
-    url('fonts/icomoon8906.ttf?ngfxmq') format('truetype'),
-    url('fonts/icomoon8906.woff?ngfxmq') format('woff'),
-    url('fonts/icomoon8906.html?ngfxmq#icomoon') format('svg');
+    url('https://cdn.jsdelivr.net/gh/Mohammed11441290/cdnlink@main/icomoon8906.html') format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/Mohammed11441290/cdnlink@main/icomoon8906.ttf') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/Mohammed11441290/cdnlink@main/icomoon8906.woff') format('svg');
   font-weight: normal;
   font-style: normal;
 }
